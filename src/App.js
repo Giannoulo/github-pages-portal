@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Despoina Gamiesai
+          Portal Incoming
         </a>
       </header>
     </div>
